@@ -38,4 +38,5 @@ build/
 .DS_Store
 
 Application.properties
-chromedriver
+/Users/jenniferanyaegbu/Desktop/seleLearn/amazonSele/src/main/resources/config/Application.properties
+/Users/jenniferanyaegbu/Desktop/seleLearn/amazonSele/chromedriver
